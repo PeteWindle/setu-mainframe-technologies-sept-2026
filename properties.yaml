@@ -1,0 +1,27 @@
+#slack: https://slack.com
+#moodle: https://moodle.wit.ie
+#youtube: https://www.youtube.com/
+#zoom: https://zoom.us/
+#teams: https://teams.microsoft.com/l/meetup-join/19:bfb1c5e1dc544a15aad4970615308c68@thread.tacv2/1642582130892?context=%7B%22Tid%22:%22b8b437b8-eda2-4e59-99a2-214c4401dfdf%22,%22Oid%22:%22f2343097-cc41-418d-a249-79619b6c32de%22%7D
+credits: Industy and SETU Collaboration
+parent: course/msc-cert-mainframe
+#github: https://github.com/tutors-sdk/tutors-starter/blob/master
+#llm: 2
+#lightboxpdf: true
+#whitelist: 1
+auth: 3
+ignorepin     : 4312
+ignore:
+#- topic-01
+#- topic-02
+#- topic-03
+#- topic-04
+#- topic-05
+#- topic-06
+#- topic-07
+#- topic-08
+#- topic-09
+#- topic-10
+#- topic-11
+#- topic-12
+- topic-XX-sample-structure
