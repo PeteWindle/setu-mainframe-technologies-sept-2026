@@ -1,3 +1,3 @@
-# 03: Data Handling
+# 03: Dataset & File Management
 
-COBOL Syntax including Arrays, data validation, well-structured code.
+Sequential & VSAM datasets, allocation, backup, recovery

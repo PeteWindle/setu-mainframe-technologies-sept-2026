@@ -1,3 +1,3 @@
-# 06: DB2 & COBOL
+# 06: Testing & Automation Tools
 
-Embed DB2 SQL in COBOL Programs
+Automated testing frameworks for mainframes

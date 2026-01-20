@@ -1,3 +1,3 @@
-# 02: Modularisation
+# 02: Mainframe Application Architecture
 
-COBOL Syntax including paragraphs, sections, subroutines, and functions.
+How COBOL, CICS, IMS, Db2, JCL, VSAM, and batch jobs interact

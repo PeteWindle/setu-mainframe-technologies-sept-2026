@@ -1,3 +1,3 @@
-# 07: IMS & COBOL
+# 07: Mainframe Performance and Monitoring Tools
 
-Embed IMS SQL in COBOL Programs
+Explore RMF, OMEGAMON, WLM, CPU/I/O monitoring.

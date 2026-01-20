@@ -1,3 +1,3 @@
-# 10: Security
+# 10: Emerging Mainframe Trends
 
-Frameworks such as RACF, ACF2 and Top Secret
+Explore modern zSystems hardware, AI accelerators, and emerging mainframe trends

@@ -1,3 +1,3 @@
-# 04: Files & JCL
+# 04: JCL & CICS
 
-File Handling and Introduction to JCL
+JCL structure, DD statements, job submission, monitoring, JES2/JES3.

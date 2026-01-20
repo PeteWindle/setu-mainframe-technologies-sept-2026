@@ -1,3 +1,3 @@
-# 09: Performance & Tooling
+# 09: Hybrid Cloud & Interoperability
 
-Tooling for Performance, Documentation and Deployment
+MQ, TCP/IP, REST APIs, middleware integration.  

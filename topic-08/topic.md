@@ -1,3 +1,3 @@
-# 08: Testing & DevOps
+# 08: Security Frameworks
 
-Automated Testing and Developer Operations 
+Explore secure configurations for mainframe environments

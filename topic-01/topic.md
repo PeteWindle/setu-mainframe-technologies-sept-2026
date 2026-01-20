@@ -1,3 +1,3 @@
-# 01: Intro
+# 01: IBM Z Overview & Architecture
 
-COBOL Syntax including data types, control flow, I/O.
+History, legacy programming environments, architecture, z/OS overview, core components, hybrid cloud context

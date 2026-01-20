@@ -1,3 +1,3 @@
-# 05: CICS
+# 05: IMS & Db2 Operational Support
 
-Introduction to CICS and Transactions
+DB2 & IMS - architectures, structure, indexes and schema concepts
